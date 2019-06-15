@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "303280758797",
+    "firebase_url": "https://tiketsaya-1acf2.firebaseio.com",
+    "project_id": "tiketsaya-1acf2",
+    "storage_bucket": "tiketsaya-1acf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303280758797:android:7195635b6a893b53",
+        "android_client_info": {
+          "package_name": "baytech.tiketsaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303280758797-0pkudb49krp0cj6a7rm7g94s0irm3h95.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "baytech.tiketsaya",
+            "certificate_hash": "0e45e7b89ab22994c7f46ffcf32b2caa553f16c7"
+          }
+        },
+        {
+          "client_id": "303280758797-sdlo39ug2cmlnguun5gn8h4q1pmds8ri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI1gD1bskCLH_Wtzayev1eSvEfhIHWLGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303280758797-sdlo39ug2cmlnguun5gn8h4q1pmds8ri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
